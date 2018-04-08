@@ -1,14 +1,14 @@
-.page-mask { 
-	width: 100%; 
-	height: 100%; 
-	position: fixed; 
-	background: #fff;  
+.page-mask {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: #fff;
 	z-index: 99999;
 }
 
 
 .spinner {
-	background: url(../img/flat-loader.gif);
+	background: url(../img/Audio_Spinning.gif);
   	width: 128px;
   	height: 128px;
   	position: absolute;
