@@ -1071,12 +1071,12 @@ div.content-box.big div.content-box-info p {
 
 
 .testimonial-wrap {
-    background: url('../img/plx2.jpg') 50% 0 no-repeat fixed;
+    background: url('../img/Houston.jpg') 50% 0 no-repeat fixed;
 
 }
 
 .quote-wrap {
-    background: url('../img/plx5.jpg') 50% 0 no-repeat fixed;
+    background: url('../img/black_plague_2.jpg') 50% 0 no-repeat fixed;
 }
 
 .subscription-wrap {
@@ -1767,6 +1767,7 @@ div.content-box.big div.content-box-info p {
 .quote-wrap {
     text-align: center;
     text-transform: uppercase;
+
 }
 
 .quote-wrap h2 {
