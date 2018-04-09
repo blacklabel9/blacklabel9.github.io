@@ -8,11 +8,12 @@
 
 
 .spinner {
-	background: url(../img/Audio_Spinning.gif);
-  	width: 128px;
-  	height: 128px;
+	background: url(../img/hip_hop_shake.gif);
+  	width: 620px;
+  	height: 620px;
   	position: absolute;
-  	left: 50%;
+  	left: 30%;
   	margin: -64px 0 0 -64px;
-  	top: 50%;
+  	top: 30%;
+		background-repeat: no-repeat;
 }
