@@ -1524,15 +1524,15 @@ div.content-box.big div.content-box-info p {
 
 .testimonial-image {
     float: left;
-    height: 70px;
+    height: 100px;
     position: relative;
-    width: 70px;
+    width: 100px;
 }
 
 .testimonial-image img {
     border-radius: 50px;
-    height: 70px !important;
-    width: 70px !important;
+    height: 100px !important;
+    width: 100px !important;
     padding:4px;
 }
 
